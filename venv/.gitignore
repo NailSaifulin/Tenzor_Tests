@@ -1,0 +1,5 @@
+# created by virtualenv automatically
+.pytest_cache/
+chromedriver/
+venv/
+.idea/
